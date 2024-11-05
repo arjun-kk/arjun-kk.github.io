@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Philosophy, University of Florida, 2027 (expected)
+* M.A. in Philosophy, University of Florida, 2024
+* M.A. in Philosophy, University of Hyderabad, 2022
+* B.Sc. in Physics. Mahatma Gandhi University, 2014
 
 Work experience
 ======
