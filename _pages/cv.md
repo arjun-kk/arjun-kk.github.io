@@ -11,26 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Philosophy, University of Florida, 2028 (expected)
+* Supervisor: Cameron Buckner 
+* MA in Philosophy, University of Florida, 2024
+* MA in Philosophy, University of Hyderabad, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2025: Instructor on Record
+  * University of Florida
+  * Course: PHI 3681 - Ethics, Data and Tech
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024 - Spring 2025: Research Assistant
+  * Organized research in philosophy of cognitive science and AI
+  * Organized Association Association Workshop at UF in Spring 2025
+  * Supervisor: Cameron Buckner
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2022 - Spring 2024: Graduate Teaching Assistant
+  * University of Florida
   
 Skills
 ======
