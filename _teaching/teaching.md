@@ -11,7 +11,7 @@ redirect_from:
 
 _University of Florida_
 Summer 2026 PHI 2010: Introduction to Philosophy
-Summer 2025 PHI 3681: Ethics, Data and Technology ([syllabus])
+Summer 2025 PHI 3681: Ethics, Data and Technology ([syllabus](/files/Syllabus.pdf))
 
 ## Courses Taught as teaching assistant
 
