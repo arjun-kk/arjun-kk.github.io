@@ -3,7 +3,7 @@ title: "PHI 3681: Ethics, Data and Technology"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Ethics-of-tech-teaching
-venue: "Department of Philosophy, University of Florida
+venue: "Department of Philosophy, University of Florida"
 date: Summer 2025
 location: "Gainesville, Florida"
 ---
