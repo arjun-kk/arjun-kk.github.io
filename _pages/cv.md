@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * Ph.D in Philosophy, University of Florida, 2028 (expected)
-* Supervisor: Cameron Buckner 
 * MA in Philosophy, University of Florida, 2024
 * MA in Philosophy, University of Hyderabad, 2022
 
