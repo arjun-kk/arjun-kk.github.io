@@ -23,7 +23,7 @@ repository               : "arjun-kk/arjun-kk.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cognitivemaps.jpg"
+  avatar           : "AIGeneratedPhilCogMap.png"
   name             : "Arjun Krishna Kumar"
   pronouns         : "he/him"# example: she/her  
   bio              : "Philosophy PhD student conducting research at the intersection of the philosophy of mind, science and AI"
