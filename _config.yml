@@ -33,12 +33,12 @@ author:
   email            : "arjun948[at]gmail[dot]com" 
 
   # Academic websites
-  academia         : # URL
+  philpapers       : "https://philpeople.org/profiles/arjun-krishna-kumar"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # https://scholar.google.com/citations?user=PS_CX0AAAAAJ
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0000-4779-2031"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
