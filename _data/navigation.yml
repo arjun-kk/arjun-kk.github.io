@@ -12,7 +12,8 @@ main:
   url: /teaching/ 
 
 - title: "CV"
-  url: /cv/
+  #url: /cv/
+  url: /files/New_CV.pdf/
   
 # - title: "Talks"
 # url: /talks/    
