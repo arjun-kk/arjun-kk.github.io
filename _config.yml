@@ -23,14 +23,14 @@ repository               : "arjun-kk/arjun-kk.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "IMG_0058.jpeg"
+  name             : "Arjun Krishna Kumar"
+  pronouns         : "he/him"# example: she/her  
+  bio              : "Philosophy PhD student conducting research at the intersection of the philosophy of mind, science and AI"
+  location         : "Gainesville, Florida"
+  employer         : "University of Florida"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "arjun948[at]gmail[dot]com" 
 
   # Academic websites
   academia         : # URL
