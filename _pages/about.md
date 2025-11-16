@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "PhD student at the University of Florida"
 author_profile: true
 redirect_from: 
   - /about/
